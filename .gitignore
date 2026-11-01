@@ -1,0 +1,5 @@
+**/backup
+**/.ssh
+**/.gitconfig
+**/.zshenv
+.zshrc.local
