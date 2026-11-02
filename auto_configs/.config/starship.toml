@@ -2,7 +2,7 @@
 
 add_newline = false
 
-format = "$directory$git_branch$git_status$nodejs$python$time $character"
+format = "$directory$git_branch$git_status$nodejs$python $character"
 
 [directory]
 format            = "[$path](cyan) "
@@ -28,11 +28,6 @@ format = "[$version](green) "
 
 [python]
 format = "[$version](green) "
-
-[time]
-disabled    = false
-time_format = "%H:%M:%S"
-format      = "[$time](dimmed white) "
 
 [character]
 success_symbol = "[❯](green)"
