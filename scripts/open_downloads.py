@@ -18,7 +18,8 @@ def open_downloads():
 		"Telegram": "https://desktop.telegram.org/",
 		"NVM": "https://github.com/nvm-sh/nvm",
 		"Rectangle": "https://github.com/rxhanson/Rectangle/releases",
-		"Starship": "https://github.com/starship/starship"
+		"Starship": "https://github.com/starship/starship",
+		"pandoc": "https://github.com/jgm/pandoc/releases"
 	}
 
 	for name, url in sites.items():
