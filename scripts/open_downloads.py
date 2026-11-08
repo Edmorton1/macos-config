@@ -19,7 +19,8 @@ def open_downloads():
 		"NVM": "https://github.com/nvm-sh/nvm",
 		"Rectangle": "https://github.com/rxhanson/Rectangle/releases",
 		"Starship": "https://github.com/starship/starship",
-		"pandoc": "https://github.com/jgm/pandoc/releases"
+		"pandoc": "https://github.com/jgm/pandoc/releases",
+		"Windows App": "https://apps.apple.com/kz/app/windows-app/id1295203466?mt=12"
 	}
 
 	for name, url in sites.items():
