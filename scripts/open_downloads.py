@@ -20,7 +20,8 @@ def open_downloads():
 		"Rectangle": "https://github.com/rxhanson/Rectangle/releases",
 		"Starship": "https://github.com/starship/starship",
 		"pandoc": "https://github.com/jgm/pandoc/releases",
-		"Windows App": "https://apps.apple.com/kz/app/windows-app/id1295203466?mt=12"
+		"Windows App": "https://apps.apple.com/kz/app/windows-app/id1295203466?mt=12",
+		"glab": "https://gitlab.com/gitlab-org/cli/-/releases"
 	}
 
 	for name, url in sites.items():
