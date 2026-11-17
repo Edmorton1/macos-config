@@ -50,3 +50,5 @@ export NVM_DIR="$HOME/.nvm"
 # =========================================================
 
 [[ -f ~/.zshrc.local ]] && source ~/.zshrc.local
+
+checkplaywright() { curl -s http://localhost:9223/json/version | jq .; }
