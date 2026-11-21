@@ -1,5 +1,10 @@
-**/backup
-**/.ssh
-**/.gitconfig
-**/.zshenv
-.zshrc.local
+**/*
+
+!.vscode/*
+!scripts/*
+!fonts/*
+
+!starship.toml
+!.gitignore_global
+!.zshrc
+!*.md
